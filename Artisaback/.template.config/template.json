@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Nicolas Denoël",
+  "classifications": [ "Web", "API", "JWT" ],
+  "identity": "Nikoden.BackendTemplate",
+  "name": "2k25 Backend Template",
+  "shortName": "backend",
+  "tags": { "language": "C#", "type": "project" },
+  "sourceName": "Backend",
+  "preferNameDirectory": true
+}
